@@ -1,1 +1,4 @@
 *apk filter=lfs diff=lfs merge=lfs -text
+*.cs linguist-language=C#
+*.aspx linguist-detectable=false
+*.cshtml linguist-detectable=false
