@@ -34,7 +34,10 @@ They fight to protect the legacy...
 ![Char3](char3.png)
 
 ---
+<<<<<<< HEAD
 
+=======
+>>>>>>> 83cd0e87d27fe71fdfbd2d866be85e212ec8c312
 ## 🗡️ Opponents
 ![OPP1](opp1.png)
 ![OPP2](opp2.png)
